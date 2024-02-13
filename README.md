@@ -1,1 +1,1 @@
-# DND-client-server-implementation
+Welcome to our DND (Do Not Disturb) project repository! This project implements a client-server architecture to manage the Do Not Disturb feature, allowing users to control incoming calls effectively. The system provides three primary functionalities: activating DND, deactivating DND, and handling incoming calls based on user preferences.
